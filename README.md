@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[[Live Website Link]](https://the-craft-house.vercel.app/)
+[[Live Website Link]](https://craft-machine.vercel.app/)
 
 <b>The Craft House </b> is a ecommerce web application having variety of local and handmade art and craft products . It is fully responsive and has user friendly design .For security purpose , Login and signup is added to authenticate users. All the products shown on are being  fetched from the MongoDB database . It also has integrated <b>Paytm Payment Gateway</b> using paytm APIs and test MID and test MKEY . 
 
@@ -111,7 +111,6 @@ DEMO Screenshots
 
 <img src="Screenshots/Screenshot (15).png" alt="im" >
 <img src="Screenshots/Screenshot (16).png" alt="im" >
-<img src="Screenshots/Screenshot (17).png" alt="im" >
 
 
 <!-- GETTING STARTED -->
@@ -133,7 +132,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/manishkumar-hub/The-craft-House.git
+   git clone https://github.com/Taufik-Nitp/CraftMachine.git
    ```
 2. Install NPM packages
    ```sh
@@ -193,8 +192,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Email  -  <a href="mailto:manishkumarpandit12@gmail.com">Manish </a>
+Email  -  <a href="mailto:taufikali999@gmail.com">Taufik </a>
 
-Project Link: [https://github.com/manishkumar-hub/The-craft-House](https://github.com/manishkumar-hub/The-craft-House)
+Project Link: [https://github.com/Taufik-Nitp/CraftMachine](https://github.com/Taufik-Nitp/CrafftMachine)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
