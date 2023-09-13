@@ -29,15 +29,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/manishkumar-hub/The-craft-House">
+  <a href="https://github.com/taufik-nitp/The-craft-Machine">
     <img src="public/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-<h3 align="center">The Craft Machinee</h3>
+<h3 align="center">The Craft Machine</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/manishkumar-hub/The-craft-Machine"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/taufik-nitp/The-craft-Machine"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://the-craft-Machine.vercel.app/">Go To website</a>
