@@ -33,18 +33,18 @@
     <img src="public/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-<h3 align="center">The Craft House</h3>
+<h3 align="center">The Craft Machinee</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/manishkumar-hub/The-craft-House"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/manishkumar-hub/The-craft-Machine"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://the-craft-house.vercel.app/">Go To website</a>
+    <a href="https://the-craft-Machine.vercel.app/">Go To website</a>
     ·
-    <a href="https://github.com/manishkumar-hub/The-craft-House/issues">Report Bug</a>
+    <a href="https://github.com/taufik-nitp/The-craft-Machine/issues">Report Bug</a>
     ·
-    <a href="https://github.com/manishkumar-hub/The-craft-House/issues">Request Feature</a>
+    <a href="https://github.com/taufik-nitp/The-craft-machine/issues">Request Feature</a>
   </p>
 </div>
 
@@ -82,7 +82,7 @@
 
 [[Live Website Link]](https://craft-machine.vercel.app/)
 
-<b>The Craft House </b> is a ecommerce web application having variety of local and handmade art and craft products . It is fully responsive and has user friendly design .For security purpose , Login and signup is added to authenticate users. All the products shown on are being  fetched from the MongoDB database . It also has integrated <b>Paytm Payment Gateway</b> using paytm APIs and test MID and test MKEY . 
+<b>The Craft Machine </b> is a ecommerce web application having variety of local and handmade art and craft products . It is fully responsive and has user friendly design .For security purpose , Login and signup is added to authenticate users. All the products shown on are being  fetched from the MongoDB database . It also has integrated <b>Paytm Payment Gateway</b> using paytm APIs and test MID and test MKEY . 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -102,7 +102,7 @@
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-To have a look of website Visit : <a href='https://the-craft-house.vercel.app/'>The Craft House </a>
+To have a look of website Visit : <a href='https://the-craft-machine.vercel.app/'>The Craft machine </a>
 
 DEMO Screenshots 
 
