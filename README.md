@@ -104,13 +104,7 @@
 ## Usage
 To have a look of website Visit : <a href='https://the-craft-machine.vercel.app/'>The Craft machine </a>
 
-DEMO Screenshots 
 
-<img src="Screenshots/Screenshot (14).png" alt="im" >
-<br>
-
-<img src="Screenshots/Screenshot (15).png" alt="im" >
-<img src="Screenshots/Screenshot (16).png" alt="im" >
 
 
 <!-- GETTING STARTED -->
